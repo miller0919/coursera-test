@@ -1,12 +1,21 @@
 *{
 	box-sizing: border-box;
 }
+body{
+	background-color: white;
+}
 h1{
 	text-align: center;
 	font-size: 1.75em;
 }
-p{
-	margin: 0px 15px;
+#Chicken{
+	background-color: #9EFFB5
+}
+#Beef{
+	background-color: #FF9E9E
+}
+#Sushi{
+	background-color: #FFF99E
 }
 @media(min-width: 991px){
 	.col-lg-4{
@@ -41,4 +50,8 @@ p{
 	border: 1px solid black;
 	border-radius: 5px;
 	width: 100px;
+}
+.dummy-text{
+	clear:right;
+	margin: 0px 15px;
 }
