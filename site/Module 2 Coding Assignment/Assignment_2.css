@@ -5,6 +5,9 @@ h1{
 	text-align: center;
 	font-size: 1.75em;
 }
+p{
+	margin: 0px 15px;
+}
 @media(min-width: 991px){
 	.col-lg-4{
 		width:33.33%;
