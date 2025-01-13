@@ -52,6 +52,7 @@ h1{
 	width: 100px;
 }
 .dummy-text{
-	clear:right;
+	
 	margin: 0px 15px;
+	clear:right;
 }
