@@ -1,0 +1,14 @@
+body{
+	background-color: #330066;
+	color: white;
+}
+#header-nav {
+	background-color: #c0c0c0;
+	border: 0;
+}
+
+#main-content dir{
+	padding-inline: 10px;
+	margin: 10px 1vw;
+	min-height: 1000px;
+}
